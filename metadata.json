@@ -1,0 +1,8 @@
+{
+  "name": "LO MA DURO - Portal Educativo e Interactivo de Inteligencia Artificial",
+  "description": "Plataforma informativa e interactiva sobre Inteligencia Artificial: conceptos fundamentales, simulador de redes neuronales, ramas de la IA, línea de tiempo histórica y explorador didáctico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
